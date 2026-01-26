@@ -1,7 +1,7 @@
 body {
   margin: 0;
-  font-family: "Arial", sans-serif;
-  background: #fdf9f6;
+  font-family: system-ui, sans-serif;
+  background: #f8f8f8;
   color: #111;
   line-height: 1.6;
 }
@@ -198,6 +198,7 @@ nav a:hover {
 }
 
 }
+
 
 
 
