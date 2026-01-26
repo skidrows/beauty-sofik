@@ -47,7 +47,7 @@ nav a:hover {
 }
 
 .btn.big {
-  background: white;
+  background: linear-gradient(90deg, #fff, #f3d9ff);
   color: black;
 }
 
@@ -153,4 +153,5 @@ nav a:hover {
     padding: 40px;
   }
 }
+
 
